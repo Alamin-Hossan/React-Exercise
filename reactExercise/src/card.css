@@ -1,0 +1,25 @@
+
+.card {
+    background-color: #F8F9FA;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .card-body {
+    padding: 20px;
+    color: #212529;
+  }
+  
+  .card-title {
+    color: #007BFF;
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    margin-bottom: 5px;
+  }
+  
+  
