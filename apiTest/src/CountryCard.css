@@ -1,0 +1,23 @@
+.country-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .country-card h2 {
+    margin-top: 0;
+  }
+  
+  .country-info {
+    margin-top: 10px;
+  }
+  
+  .country-info div {
+    margin-bottom: 5px;
+  }
+  
+  .country-info strong {
+    font-weight: bold;
+  }
+  
