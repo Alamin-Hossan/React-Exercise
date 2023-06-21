@@ -6,13 +6,13 @@ import SignUp from './SignUp'
 import React from 'react';
 import StudentList from './StudentList';
 
-function App() {
-  const [count, setCount] = useState(0)
 
+function App() {
   return (
-    <>
+     <>
       <StudentList />
-    </>
+     </>
+ 
   )
 }
 
